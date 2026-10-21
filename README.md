@@ -1,2 +1,2 @@
 # minicurso-git
-Dando mes primeiros passos
+Dando meus primeiros passos
